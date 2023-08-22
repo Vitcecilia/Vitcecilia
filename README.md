@@ -14,8 +14,10 @@
 
 **Aplicações e dados**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 **Utilidades**
 
@@ -23,14 +25,14 @@
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
- <h2>📊 Estatísticas</h2>
+ <h2>📊 Informações sobre minha conta GitHub </h2>
 
 <div>
   <a href = "https://github.com/Vitcecilia">
@@ -43,7 +45,7 @@
   <a href="https://www.linkedin.com/in/vitcecilia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-Sinta-se à vontade para se conectar comigo e compartilhar suas ideias ou projetos. Estou sempre aberta a colaborações e novas oportunidades de aprendizado!
+Se conectando podemos compartilhar ideias e projetos. Estarei esperando seu networking!
 <h2 align="center">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDIyc3Q2MTRzbHA5bGtvYm9mZWs0N251NnJrcThzc3NyYjUxc2ppNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" alt="Coder GIF" width="300">
 </h2> 
