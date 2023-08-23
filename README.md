@@ -3,6 +3,10 @@
 
 ### Meu nome é Vitória Cecilia mas pode me chama de Ceci 
 
+
+![image](https://github.com/Vitcecilia/Vitcecilia/assets/125613774/6328ca28-7d9a-455f-a103-ffa4856f89bc)
+
+
 <h2>👩‍💻 Interesses </h2>
 
 - 🤔 Explorar novas tecnologias e desenvolver soluções de software.
@@ -46,7 +50,4 @@
 </div>
 
 Se conectando podemos compartilhar ideias e projetos. Estarei esperando seu networking!
-<h2 align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDIyc3Q2MTRzbHA5bGtvYm9mZWs0N251NnJrcThzc3NyYjUxc2ppNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NE7JhJgZBHlMfmNEa/giphy.gif" alt="Coder GIF" width="300">
-</h2> 
 
