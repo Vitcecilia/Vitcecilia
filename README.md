@@ -8,8 +8,8 @@
 <h2>👩‍💻 Interesses </h2>
 
 - 🤔 Explorar novas tecnologias e desenvolver soluções de software.
-- 🎓 Estudando desenvolvimento de software em backend na <a href="https://cubos.academy/">Cubos Academy</a>.
-- 🌱 atualmente estou apredendendo JavaScript.
+- 🎓 Estudante de Análise e Desenvolvimento de sistemas .
+- 🌱 Atualmente cursando desenvolvimento web Full Satack.
 
 
 <h3>Minhas Skills</h3>
